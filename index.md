@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![Picture](cbrown.github.io/techbannerBT.jpg)
+![Picture](techbannerBT.jpg)
 
 
 [Linkedin](https://www.linkedin.com/in/chrisbrownbt603/).
