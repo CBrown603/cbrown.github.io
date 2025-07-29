@@ -1,42 +1,22 @@
 ---
 layout: default
 ---
-![Banner](https://github.com/CBrown603/cbrown.github.io/blob/main/techbannerBT.jpg)
+!![Picture](https://github.com/CBrown603/cbrown.github.io/blob/main/techbannerBT.jpg)
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Linkedin](https://www.linkedin.com/in/chrisbrownbt603/).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Bio
+I'm Chris. IT enthusiast, novice homelabber; passionate about learning and passing on whatever I can
+I've been working in or around the IT industry for a couple of years, but have been on a tech journey (whether I knew it or not) for decades.
+I have always been big on technology in its various forms: computers, gaming, audio, video; and more recently homelabbing, networking, cybersecurity, and live streaming.
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## It's not much, but it's a start
+This is my first foray into the world of websites, so bear with me. This page is very much under construction and probably will be for the forseable future.
 
 ### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### Header 4
 
