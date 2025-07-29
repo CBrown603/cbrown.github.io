@@ -15,7 +15,7 @@ I have always been big on technology in its various forms: computers, gaming, au
 -
 
 ## It's not much, but it's a start
-This is my first foray into the world of websites, so bear with me. This page is very much under construction and probably will be for the for3seable future.
+This is my first foray into the world of websites, so bear with me. This page is very much under construction and probably will be for the foreseable future.
 
 -
 
