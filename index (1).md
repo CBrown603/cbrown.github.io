@@ -2,6 +2,7 @@
 layout: default
 ---
 ![Banner](https://github.com/CBrown603/cbrown.github.io/blob/main/techbannerBT.jpg)
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Linkedin](https://www.linkedin.com/in/chrisbrownbt603/).
