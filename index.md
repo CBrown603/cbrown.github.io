@@ -27,3 +27,4 @@ As time goes on, I'll be adding projects, writeups, and maybe tutorials or blogs
 ```
 Thanks for stopping by!
 ```
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2551873" style='border:none;'></iframe>
