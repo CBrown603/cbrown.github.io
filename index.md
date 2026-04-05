@@ -22,7 +22,7 @@ This is my first foray into the world of websites, so bear with me. This page is
 ### More to come, if all goes well
 As time goes on, I'll be adding projects, writeups, and maybe tutorials or blogs. For right now, just getting this thing off the ground is the plan.
 
-- [First Write Up](https://medium.com/@bearabletechtv/bearable-tech-it-support-ticket-01010426-32aea2968607)
+-<a href="https://medium.com/@bearabletechtv/bearable-tech-it-support-ticket-01010426-32aea2968607" target="_blank" rel="noopener noreferrer">First Write Up</a>
 This write up is an IT support project for a family friend. Simple, basic, remedial even? Sure. But the job needed doing, so here is the unnecessarily long documentation.
 
 ```
