@@ -29,4 +29,5 @@ This write up is an IT support project for a family friend. Simple, basic, remed
 Thanks for stopping by!
 ```
 My Current TryHackMe Progress!
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2551873" style='border:none;'></iframe>  <iframe src="https://tryhackme.com/share/capability-score/BearableTech" style='border:none;'></iframe>
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2551873" style='border:none;'></iframe>
+...
