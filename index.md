@@ -10,7 +10,7 @@ layout: default
 # Bio
 I'm Chris. IT enthusiast, novice homelabber; passionate about learning and passing on whatever I can.
 I've been working in or around the IT industry for a couple of years, but I have been on a tech journey (whether I knew it or not) for most of my life.
-I have always been big on technology in its various forms: computers, gaming, audio, video; and more recently homelabbing, networking, cybersecurity, and live streaming.
+I have always been big on technology in its various forms: computers, gaming, audio, video; and more recently homelabbing, networking, and cybersecurity.
 
 -
 
