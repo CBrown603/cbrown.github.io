@@ -26,6 +26,7 @@ As time goes on, I'll be adding projects, writeups, and maybe tutorials or blogs
 This write up is an IT support project for a family friend. Simple, basic, remedial even? Sure. But the job needed doing, so here is the unnecessarily long documentation.
 - <a href="https://medium.com/@bearabletechtv/bearable-tech-it-support-ticket-02101026-2778a76fbabc" taget="_blank" rel="noopener noreferrer">Second Write Up<a/>
 This write up is an IT repair project involving a problematic Joy-Con controller. Another easy fix made difficult!
+
 ```
 Thanks for stopping by!
 ```
